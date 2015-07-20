@@ -1,0 +1,1651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"script",
+				"language	script (depr)"
+			],
+			[
+				"function",
+				"description-Function"
+			],
+			[
+				"val",
+				"validar"
+			],
+			[
+				"inpu",
+				"CHECKED	input"
+			],
+			[
+				"st",
+				"standby	object"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"level",
+				"levelNumber"
+			],
+			[
+				"le",
+				"level2"
+			],
+			[
+				"Par",
+				"particles"
+			],
+			[
+				"get",
+				"getBlockEdge"
+			],
+			[
+				"getBlo",
+				"getBlock"
+			],
+			[
+				"x",
+				"xBlock"
+			],
+			[
+				"y",
+				"yBlock"
+			],
+			[
+				"til",
+				"tiles"
+			],
+			[
+				"g",
+				"getBlockIndex"
+			],
+			[
+				"snap",
+				"snapSize"
+			],
+			[
+				"c",
+				"cla	Class"
+			],
+			[
+				"add",
+				"addPlayer"
+			],
+			[
+				"tile",
+				"tileW"
+			],
+			[
+				"for",
+				"forof	Object Comprehension"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"cla",
+				"clear"
+			],
+			[
+				"key",
+				"keycode"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"d",
+				"drawANinja"
+			],
+			[
+				"ma",
+				"makeANinja"
+			],
+			[
+				"ti",
+				"tileH"
+			],
+			[
+				"dr",
+				"drawSprite"
+			],
+			[
+				"sprite",
+				"sprites"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"ca",
+				"call	method.call()"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"an",
+				"animate	.animate()"
+			],
+			[
+				"cl",
+				"click	Event"
+			],
+			[
+				"tr",
+				"trim	$.trim()"
+			],
+			[
+				"me",
+				"message	Event"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"settim",
+				"setTimeout(${0:func}, delay)	Window"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"abaixar",
+				"abaixarBotao"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"reg",
+				"regHostName"
+			],
+			[
+				"re",
+				"RegRead"
+			],
+			[
+				"tes",
+				"test(${0:string})	RegExp"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"balloon",
+				"balloonSprite"
+			],
+			[
+				"node",
+				"nodeValue	Node"
+			],
+			[
+				"fir",
+				"firstChild	Node"
+			],
+			[
+				"fon",
+				"fontSize	Style CSS"
+			],
+			[
+				"clas",
+				"className	Element"
+			],
+			[
+				"fuc",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"inner",
+				"innerHTML	Element"
+			],
+			[
+				"ke",
+				"keypress	.keypress()"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"log",
+				"console.log('$0');"
+			],
+			[
+				"balloonPo",
+				"balloonPosition1"
+			],
+			[
+				"hei",
+				"height	Style CSS"
+			],
+			[
+				"Image",
+				"new Image()"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"tri",
+				"trim()	String"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"getelemen",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"inn",
+				"innerHTML	Element"
+			],
+			[
+				"getelem",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"getElemen",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"getele",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"styl",
+				"style	Style CSS"
+			],
+			[
+				"bo",
+				"body	Document"
+			],
+			[
+				"functio",
+				"function ${0:function_name} (argument){\n	/* body... */\n}"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"stl",
+				"style	Tag"
+			],
+			[
+				"s",
+				"script	HTML - Script"
+			],
+			[
+				"li",
+				"link	body (depr)"
+			],
+			[
+				"bro",
+				"browser	$.browser()"
+			],
+			[
+				"alert",
+				"alert(${0:message})	Window"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/show.ejs",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/index.ejs",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/contatos/index.ejs",
+			"settings":
+			{
+				"buffer_size": 1359,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/contatos.js",
+			"settings":
+			{
+				"buffer_size": 2114,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/app.js",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/home.js",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app.coffee",
+			"settings":
+			{
+				"buffer_size": 756,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 270.0,
+		"last_filter": "set html",
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ja",
+				"Set Syntax: Java"
+			],
+			[
+				"set javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set html	",
+				"Set Syntax: HTML"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"set s",
+				"Set Syntax: Lua"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"print teste",
+			"js",
+			"node",
+			"cake",
+			"cls",
+			"clear",
+			"console.log('teste')",
+			"console.log 'teste'",
+			"coffee",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Programação/ProgrammingESTUDE",
+		"/F/Programação/ProgrammingESTUDE/NodeJS",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/chat",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/chat",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/contatos",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite/public",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite/src"
+	],
+	"file_history":
+	[
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite/.gitignore",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite/src/teste.coffee",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/NodeWebSite/views/error.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/controllers/home.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/chat.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/notify_script.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/index.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/chat/index.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/edit.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/show.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/sockets/chat.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/routes/chat.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/home.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/models/usuario.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/app.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/routes/contatos.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/contatos.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/contatos/notify_script.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/contatos/index.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/Continuar da pagina 77 Node JS livro",
+		"/F/Programação/ProgrammingESTUDE/CSS Dojo/Bootstrap_Dojo/BS_Lab01/formulario.html",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/middlewares/autenticador.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/middlewares/error.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/server-error.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/not-found.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/exit.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/footer.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/home/index.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/routes/home.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/package.json",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/header.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/public/stylesheets/style.css",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/routes/users.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/Comandos no Node.js.txt",
+		"/F/Programação/ProgrammingESTUDE/CSS Dojo/Bootstrap_Dojo/BS_Lab01/index.html",
+		"/F/Programação/ProgrammingESTUDE/CSS Dojo/Bootstrap_Dojo/BS_Lab01/src/testeSite.coffee",
+		"/F/Programação/ProgrammingESTUDE/CSS Dojo/Bootstrap_Dojo/BS_Lab01/script.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/lembrete.txt",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/Cakefile",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/screens/GameScreen.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/levels/Level.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/dialogs/WinDialog.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/game.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/index.html",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/dialogs/WinDialog.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/levels/levels.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/entities/Ninja.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/screens/GameScreen.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/levels/levels.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/levels/Level.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/particles/Particle.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/entities/Player.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/_utils.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/dialogs/_Dialog.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/dialogs/DeadDialog.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/dialogs/LevelDialog.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/particles/Particle.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/Entities/Ninja.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/Entities/Player.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/script/main.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/screens/TitleScreen.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/screens/_Screen.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/gfx.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/css/main.css",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/blocks/Treasure.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/blocks/Rock.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/blocks/Dirt.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/entities/_Entity.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/keys.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/sound.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter06/src/entities/Player.coffee",
+		"/c/users/cather~1/appdata/local/temp/keys.js",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/Preferences.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/Package Control.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/JSON.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter04/src/levels/Level.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter04/src/files",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/blocks/_Block.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter04/src/entities/Ninja.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/entities/levels/Level.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter04/index.html",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/Ninja.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScriptDojo/JUMP_START_COFFEESCRIPT/gamejam/src/player.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/index.html",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/script/main.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/Cakefile",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/lembrete.txt",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/player.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/keys.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/gfx.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/game.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter03/src/keys.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter03/src/files",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter03/src/game.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/Cakefile",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/script/game.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/files",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/src/compile",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter02/src/gfx.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/COFFEESCRIPT1-master/COFFEESCRIPT1-master/chapter02/src/game.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/gamejam/script/gfx.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/Disco/script.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/Disco/index.html",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/Disco/script.coffee",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/friday/friday.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/JUMP_START_COFFEESCRIPT/friday/friday.coffee",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/sair.ejs",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/middleware/autenticador.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/middleware/error.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/WebTestLabCoffee/coffee-script.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/Continuar da pagina 61 Node JS livro",
+		"/F/Programação/IDE Para Estudo/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/app.js.bk",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/home.html",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/routes/user.js",
+		"/F/Programação/ProgrammingESTUDE/CoffeeScript/WebTestLabCoffee/Coffee.html",
+		"/F/Programação/ProgrammingESTUDE/modelo.html",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/JoKenPo_NodeJS/JoKenPo_JS/animacoes.js",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/JoKenPo_NodeJS/JoKenPo_JS/cpu.js",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/Plain text.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Thema BK.txt",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/MySignaturePlugin.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Data/Packages/MySignaturePlugin/MySignaturePlugin.sublime-settings",
+		"/F/Programação/IDE Para Estudo/Data/Packages/User/CoffeeCompile.sublime-settings",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/JoKenPo_NodeJS/JoKenPo_JS/style.css",
+		"/F/Programação/ProgrammingESTUDE/NodeJS/JoKenPo_NodeJS/JoKenPo_JS/JoKenPo.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mongoose",
+			"clique",
+			"levelComplete",
+			"levelcomplete",
+			"continue from the page 130\n6 chapter the end /o/ ",
+			"(=> ",
+			"theme",
+			" \n",
+			"x",
+			"setInterval",
+			"false",
+			"   ",
+			"fdf",
+			"teste",
+			"testan	",
+			" ",
+			"\nselect * from ",
+			".\n",
+			"ok",
+			" <",
+			");\n",
+			"jpg",
+			"200",
+			"500px",
+			"compare",
+			"e",
+			"valor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/show.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/views/contatos/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/LivroNodeJSCasaDoCodigo/livro-nodejs-master/livro-nodejs-master/projeto/ntalk/views/contatos/index.ejs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/contatos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/F/Programação/ProgrammingESTUDE/NodeJS/EXPRESS/ntalk/controllers/home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/app.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript Ultimate/JavaScript (DOM).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.430379746835,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffee_compile_output":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NwebSiteProject.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lembre",
+				"CoffeeScriptDojo\\JUMP_START_COFFEESCRIPT\\lembrete.txt"
+			],
+			[
+				"cookie",
+				"JavaScriptDojo\\Estudando-Cookies\\cookie.js"
+			],
+			[
+				"cook",
+				"JavaScriptDojo\\Estudando-Cookies\\cookie.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rein",
+				"F:\\Programação\\IDE Para Estudo\\CoderNinja.sublime-workspace"
+			],
+			[
+				"",
+				"F:\\Programação\\IDE Para Estudo\\CoderNinja.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
